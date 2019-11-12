@@ -1,4 +1,4 @@
-# SegmentationForCeramic-HFB2-B4C-_software
+# SegmentationForCeramic-HFB2-B4C_software
 
 virtualBoundary.exe is execution file.
 
